@@ -1,6 +1,6 @@
 # Astrology Consultant
 
-Astrology Consultant is a tool for statistical data analysis and self-learning. Remember that astrology is just one of many possible lenses of perception. Uses Swiss Ephemeris © 1997-2008 Astrodienst AG (GPL v2). Source code using SwissEphNet: https://u.to/xXJQIg. Copyright © 2025, GwelfenLib. All Rights Reserved.
+Astrology Consultant is a tool for statistical data analysis and self-learning. Remember that astrology is just one of many possible lenses of perception. Uses Swiss Ephemeris © 1997-2008 Astrodienst AG (GPL v2). Source code using SwissEphNet: [https://u.to/xXJQIg](https://github.com/gwelfenlib/unity-swiss-ephemeris-wrapper). Copyright © 2025, GwelfenLib. All Rights Reserved.
 
 The app is available for web, desktop, and mobile. Try it online or download it for your device.
 
