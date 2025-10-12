@@ -8,7 +8,7 @@ Astrology Consultant is a tool for statistical data analysis and self-learning. 
 
 ### Windows (.exe)
 
-📥 [Download AstroConDesktop.zip](https://github.com/gwelfenlib/Astrology-Consultant-app/raw/refs/heads/main/Desktop/AstroConDesktop.zip)
+📥 [Download AstroConDesktop.zip](https://github.com/gwelfenlib/Astrology-Consultant-app/raw/refs/heads/main/Desktop/AstroConUnpack.zip)
 
 ### Android (.apk)
 
