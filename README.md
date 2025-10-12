@@ -4,15 +4,15 @@ Astrology Consultant is a tool for statistical data analysis and self-learning. 
 
 ### Web Version - launch now for free
 
-🔗 [https://gwelfenlib.github.io/AstroCon/](https://gwelfenlib.github.io/AstroCon/) (data is not saved between sessions)
+🌐 [Run in Browser](https://gwelfenlib.github.io/AstroCon/) (data is not saved between sessions)
 
 ### Windows (.exe)
 
-🔗 [Download AstroConDesktop.zip](https://github.com/gwelfenlib/Astrology-Consultant-app/raw/refs/heads/main/Desktop/AstroConDesktop.zip)
+📥 [Download AstroConDesktop.zip](https://github.com/gwelfenlib/Astrology-Consultant-app/raw/refs/heads/main/Desktop/AstroConDesktop.zip)
 
 ### Android (.apk)
 
-🔗 [Download AstroCon.apk](https://github.com/gwelfenlib/Astrology-Consultant-app/raw/refs/heads/main/Mobile/AstroCon.apk)
+📥 [Download AstroCon.apk](https://github.com/gwelfenlib/Astrology-Consultant-app/raw/refs/heads/main/Mobile/AstroCon.apk)
 
 ## Gallery
 
