@@ -1,7 +1,3 @@
-# Astrology Consultant
-
-**AstroCon** is an astrology consultant app available for web, desktop, and mobile. Try it online or download it for your device.
-
 ### Web Version
 
 🔗 [https://gwelfenlib.github.io/AstroCon/](https://gwelfenlib.github.io/AstroCon/) (data is not saved between sessions)
@@ -13,6 +9,10 @@
 ### Android (.apk)
 
 🔗 [Download AstroCon.apk](https://github.com/gwelfenlib/Astrology-Consultant-app/raw/refs/heads/main/Mobile/AstroCon.apk)
+
+# Astrology Consultant
+
+**AstroCon** is an astrology consultant app available for web, desktop, and mobile. Try it online or download it for your device.
 
 ![astrology practicing app (4)](https://github.com/user-attachments/assets/cabb3bb0-aa9a-4626-9734-f3678d2ae7a1)
 ![astrology practicing app (1)](https://github.com/user-attachments/assets/8972b335-2e10-4542-842d-326c583667a7)
