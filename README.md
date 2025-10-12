@@ -2,7 +2,7 @@
 
 Astrology Consultant is a tool for statistical data analysis and self-learning. Remember that astrology is just one of many possible lenses of perception. The app is available for web, desktop, and mobile. Try it online or download it for your device.
 
-### Web Version
+### Web Version - launch now for free
 
 🔗 [https://gwelfenlib.github.io/AstroCon/](https://gwelfenlib.github.io/AstroCon/) (data is not saved between sessions)
 
@@ -32,6 +32,8 @@ Astrology Consultant is a tool for statistical data analysis and self-learning. 
 * Uses Swiss Ephemeris © 1997-2008 Astrodienst AG (GPL v2). Open source app code using SwissEphNet: [https://u.to/xXJQIg](https://github.com/gwelfenlib/unity-swiss-ephemeris-wrapper).
 * Uses NASA JPL Horizons database.
 * Made with Unity 6.
+
+Contact for proposals: gwelfen4@gmail.com
 
 Copyright © 2025, GwelfenLib. All Rights Reserved.
 
