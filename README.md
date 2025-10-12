@@ -35,3 +35,5 @@ Astrology Consultant is a tool for statistical data analysis and self-learning. 
 
 Copyright © 2025, GwelfenLib. All Rights Reserved.
 
+google-site-verification: googlee0d384355a041268.html
+
