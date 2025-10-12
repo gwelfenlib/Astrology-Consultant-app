@@ -24,6 +24,8 @@ Astrology Consultant is a tool for statistical data analysis and self-learning. 
 
 * No data is collected or transmitted to third-party services. Birth data is stored locally on the device.
 * Works offline for basic features. Requires internet connection to calculate Chiron and Proserpina positions and relative planet powers.
+* The app’s full functionality is completely free and contains no hidden payments, ads, or other commercial features.
+* Files are safe to download only from this official repository. The app does not require any device permissions and contains no viruses or malicious code. Downloading the app from any other source is at your own risk.
 
 ## Resources & Rights
 
