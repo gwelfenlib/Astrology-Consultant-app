@@ -20,6 +20,15 @@ Astrology Consultant is a tool for statistical data analysis and self-learning. 
 
 <div align="center"> <img src="https://github.com/user-attachments/assets/de3ba575-14c7-4cb1-8b96-717e81eeb27c" width="45%" /> <img src="https://github.com/user-attachments/assets/33db89d5-8ca6-43f6-b7be-638db19ed559" width="45%" /> </div>
 
+## Get AI readings for daily usage
+
+All aspects in detail can be copied as text, fed to any AI chat, and you’ll get an interpretation. Try generating a reading of today’s transit. Paste & Prompt:
+```
+How did this day go? Imagine the events, scenes, and vibe - make it concrete and lifelike. Don’t give advice, ambiguities, or conditions.
+```
+
+<div align="center"> <img src="https://github.com/user-attachments/assets/50f01d96-c0ea-438a-bfde-1e6f1aea87ed" width="45%" /> <img src="https://github.com/user-attachments/assets/74538916-ecbe-4775-aeee-15c82f6bf1b6" width="45%" /> </div>
+
 ## Privacy & Connectivity
 
 * No data is collected or transmitted to third-party services. Birth data is stored locally on the device.
