@@ -24,7 +24,7 @@ Astrology Consultant is a tool for statistical data analysis and self-learning. 
 
 All aspects in detail can be copied as text, fed to any AI chat, and you’ll get an interpretation. Try generating a reading of today’s transit. Paste & Prompt:
 ```
-How did this day go? Imagine the events, scenes, and vibe - make it concrete and lifelike. Don’t give advice, ambiguities, or conditions.
+Describe this day based on astrological data. Give examples of events, scenes, vibes that can be applied to real life. Don’t give advice, ambiguities, or conditions.
 ```
 
 <div align="center"> <img src="https://github.com/user-attachments/assets/50f01d96-c0ea-438a-bfde-1e6f1aea87ed" width="45%" /> <img src="https://github.com/user-attachments/assets/74538916-ecbe-4775-aeee-15c82f6bf1b6" width="45%" /> </div>
