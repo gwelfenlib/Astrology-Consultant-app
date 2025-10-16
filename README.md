@@ -22,12 +22,19 @@ Astrology Consultant is a tool for statistical data analysis and self-learning. 
 
 ## Get AI readings for daily usage
 
-All aspects in detail can be copied as text, fed to any AI chat to get an interpretation. Generate a reading of today’s transit. Paste & Prompt:
+All aspects in detail can be copied as text, fed to any AI chat to get an interpretation.
+
+Generate a reading of **today’s** transit. Copy Prognostics, Paste & Prompt:
 ```
 Describe this day based on astrological data below. Assume the most likely events, scenes, vibes that can be applied to real life: everyday issues, relationships, earnings, communication, work tasks - everything that you consider relevant. What impact will my actions have today? What can I expect from the outside world, which I don't control? Outline the picture of events, highlight the key aspects to the natal positions and describe their meaning. Write simply, no abstractions, clear examples. Don't be superficial and banal, try to synthesize. Avoid advice, drama, conditions and ambiguities, just read what is embedded in the chart's mechanisms and try to illustrate.
 ```
 
 <div align="center"> <img src="https://github.com/user-attachments/assets/50f01d96-c0ea-438a-bfde-1e6f1aea87ed" width="45%" /> <img src="https://github.com/user-attachments/assets/74538916-ecbe-4775-aeee-15c82f6bf1b6" width="45%" /> </div>
+
+Generate a general interpretation regarding **career**. Copy Active Chart, Paste & Prompt:
+```
+What kind of career do you see in the natal chart below? Give a reading focused on professional development, without pulling in other life areas or psychology. Decode what is embedded in the aspects, synthesize them, and describe the expressed patterns using examples and vivid, characteristic scenes. You are not describing desires, needs, or potential - only specific details of the career: professions, stages of formation, the environment, effectiveness, what will be present in the career and what will not. Additionally, pay attention to the North Node as a vector of growth - but don’t interpret it as an instruction. Instead, suggest how it might integrate into the career, as if showing where the tailwind lies. Do not dramatize the nodal axis - the South transfers into the North, and the person has no choice but to live it out anyway. It’s important not to give advice, not to set conditions, and not to use abstractions. Write thoughtfully and in depth, so that the reading is applicable to real life and creates vivid associative imagery in the reader’s mind. I emphasize: do not give advice; the native owes you nothing. Your answer should give only an understanding of the chart. Write like this: “When reading this chart, the following likely scenarios come to mind...”
+```
 
 ## Privacy & Connectivity
 
