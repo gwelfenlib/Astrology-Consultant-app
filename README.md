@@ -33,7 +33,7 @@ Describe this day based on astrological data below. Assume the most likely event
 
 Generate a general chart reading. Copy Active Chart, Paste & Prompt:
 ```
-Tell me what kind of person this is based on the natal chart below. Do not generalize, give advice, or dramatize - speak only in terms of real-life applicability, with examples. If established society were to meet a newcomer with this chart, who would they be meeting? Who else in the world has had a similar chart? What will this person do, what qualities will they show, and in which areas will they be less remarkable?
+Tell me what kind of person it is based on the natal chart below. Do not generalize, do not give advice, avoid drama, and speak only applicable to life, with examples. If established society were to meet a newcomer with this chart, who would they encounter? Who has appeared in the world with such a chart? What will this person do, what qualities will they display, and in which areas does this person not particularly stand out?
 ```
 
 Generate a general interpretation regarding **career**. Copy Active Chart, Paste & Prompt:
