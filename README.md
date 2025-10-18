@@ -33,7 +33,7 @@ Generate a reading of transit impact on you. Copy, Paste & Prompt:
 Describe this day based on astrological data below. Assume the most likely events, scenes, vibes that can be applied to real life: everyday issues, relationships, earnings, communication, work tasks - everything that you consider relevant. What impact will my actions have today? What can I expect from the outside world, which I don't control? Outline the picture of events, highlight the key aspects to the natal positions and describe their meaning. Write simply, no abstractions, clear examples. Don't be superficial and banal, try to synthesize. Avoid advice, drama, conditions and ambiguities, just read what is embedded in the chart's mechanisms and try to illustrate.
 ```
 
-###General (Active Chart tab)
+### General (Active Chart tab)
 
 Generate a general chart reading. Copy, Paste & Prompt:
 ```
