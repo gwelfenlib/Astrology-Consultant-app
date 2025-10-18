@@ -51,6 +51,11 @@ You are an astrology consultant for a businessman. Describe the image of the cli
 The final answer structure: who the typical client is, who they are not, the client’s needs, the client’s typical behavior (all according to the 7th house); then the native himself as a source of resources for the client, and what he can receive from clients (1st house); then the keys to establishing connection between the native and the client (synthesis of aspects). If possible, describe the most effective ways of promotion, negotiations, working with the target audience, building the sales funnel, etc. Do not give advice or instructions - simply describe what is indicated in the chart, with clear examples.
 ```
 
+Generate a general interpretation regarding **finances**. Copy, Paste & Prompt:
+```
+You are an astrologer-consultant for an individual. Describe the mechanism of their income generation as encoded in the natal chart. Examine the 2nd house as the container of personal finances and active income (employment, small-scale entrepreneurship), and the 8th house as the domain of passive income and shared resources (business, investments). It is essential to analyze all elements of the 2nd-8th house axis, including their rulers, signs, planets within, and aspects to these planets and to the house cusps. After gathering all the details, synthesize them into a single mechanism that describes how financial inflows function. For example, the planetary ruler of the 2nd house indicates the most profitable motivation leading to income generation. Identify the top three income scenarios, the most likely sources of earnings, and the most characteristic areas for investment. Provide a comparative description showing how this chart differs from other possible configurations - how predisposed the individual is to wealth, what kind of wealth it is, and from which sources money is least likely to come. Where possible, describe the most effective means of increasing financial resources that are naturally supported by the chart. Do not give advice or instructions - simply describe what is inherently encoded in the chart, using clear, concrete examples.
+```
+
 ## Privacy & Connectivity
 
 * No data is collected or transmitted to third-party services. Birth data is stored locally on the device.
