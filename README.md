@@ -2,7 +2,7 @@
 
 Astrology Consultant is a tool for statistical data analysis and self-learning. Remember that astrology is just one of many possible lenses of perception. The app is available for web, desktop, and mobile. Try it online or download it for your device.
 
-### Web Version - launch now for free
+### Web Version - launch now
 
 🌐 [Run in Browser](https://gwelfenlib.github.io/AstroCon/) (data is not saved between sessions)
 
